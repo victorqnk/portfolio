@@ -8,7 +8,7 @@ export const Hero = () => {
           Hello, <span className='text-cyan-400'>I'm Victor</span>
         </h1>
         <p className='text-white text-lg w-96 mt-5'>
-          A full-stack developer with a focus on creating{' '}
+          A full-stack developer with a focus on creating
           <span className='text-yellow-400'>user-centered</span> scalable web
           and mobile applications with modern technologies.
         </p>
