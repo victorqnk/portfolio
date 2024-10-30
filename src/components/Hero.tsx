@@ -1,6 +1,9 @@
+import { ConstructionBanner } from './Construction'
+
 export const Hero = () => {
   return (
     <div className='bg-hero h-screen max-w-full bg-cover bg-center bg-no-repeat'>
+      <ConstructionBanner />
       <div className='absolute bottom-20 left-12'>
         <h1 className='text-5xl text-yellow-400 font-thin'>
           Hello, <span className='text-cyan-400'>I'm Victor</span>
